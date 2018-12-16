@@ -7,3 +7,4 @@ All rights reserved to the creators
 Versions:
 0.3 _ simple localHost multiplayer, sync mov
 0.35_ added shoots and player information shared by server, playerID
+0.4_ add projectiles, playerID, and projectile collision.. serverMode was added
